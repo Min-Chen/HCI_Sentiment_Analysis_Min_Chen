@@ -7,9 +7,8 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="org.slf4j:slf4j-simple:1.7.24" level="project" />
     <orderEntry type="library" exported="" name="edu.stanford.nlp:stanford-corenlp:3.7.0" level="project" />
     <orderEntry type="library" name="stanford-corenlp-models-current" level="project" />
-    <orderEntry type="library" name="org.apache.clerezza.ext:org.json.simple:0.4" level="project" />
+    <orderEntry type="library" name="slf4j-api-1.7.24" level="project" />
   </component>
 </module>

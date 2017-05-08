@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="slf4j-api-1.7.24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

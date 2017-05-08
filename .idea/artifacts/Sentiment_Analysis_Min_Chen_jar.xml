@@ -26,7 +26,8 @@
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/protobuf-java-2.6.1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../Intelligent_Tutoring_System_Min_Chen/app/libs/stanford-corenlp-models-current.jar" path-in-jar="/" />
-      <element id="library" level="project" name="org.slf4j:slf4j-simple:1.7.24" />
+      <element id="library" level="project" name="edu.stanford.nlp:stanford-corenlp:3.7.0" />
+      <element id="library" level="project" name="stanford-corenlp-models-current" />
     </root>
   </artifact>
 </component>
